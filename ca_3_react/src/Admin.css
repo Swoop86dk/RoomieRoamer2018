@@ -1,0 +1,31 @@
+#admin{
+    background-color: #e1e3e2 !important;
+}
+#users {
+    float: center !important;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #users td, #customers th {
+    float: center !important;
+    border: 1px solid #ddd;
+    padding: 8px;
+    width: 10%;
+  }
+  
+  #users tr:nth-child(even){background-color: #f2f2f2 !important;
+    float: center !important;}
+  
+  #users tr:hover {background-color: #ddd;
+    float: center !important;}
+  
+  #users th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    float: center !important;
+  }

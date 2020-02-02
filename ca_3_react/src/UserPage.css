@@ -1,0 +1,13 @@
+#userpagebody{
+    background-color: #e1e3e2;
+    height: 100vh; 
+}
+
+#funktionbox{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+

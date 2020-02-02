@@ -1,0 +1,16 @@
+#devider{
+    background: transparent;
+}
+
+select{
+    margin: 10px;
+}
+
+.username{
+    margin: 10px;
+}
+
+#signbut{
+    float: center;
+    margin-top: 10px;
+}

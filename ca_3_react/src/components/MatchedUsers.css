@@ -1,0 +1,62 @@
+.ui.inverted.menu {
+  background: orange;
+}
+
+.ui.left.sidebar,
+.ui.right.sidebar {
+  width: 20%;
+}
+
+.ui.bottom.attached.segment.pushable {
+  height: 100vh;
+}
+
+.ui.segment.users {
+  background: orange;
+  margin: 0px;
+  cursor: pointer;
+}
+
+.ui.avatar.image {
+  font-size: 42px;
+}
+
+.pusher {
+  padding-left: 8%;
+  height: 94vh;
+  width: 100%;
+}
+
+.ui.form {
+  position: fixed;
+  bottom: 3%;
+  width: 25%;
+  margin-left: 25%;
+}
+
+.ui.form i {
+  position: absolute;
+  bottom: 0%;
+  margin-bottom: 8%;
+  margin-left: 5%;
+  color: orange;
+  cursor: pointer;
+}
+
+.ui.form h2 {
+  color: orange !important;
+}
+
+.formChat {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.formChat button {
+  position: relative;
+  bottom: 60px;
+}
+
+.formChat textarea {
+  resize: none;
+}

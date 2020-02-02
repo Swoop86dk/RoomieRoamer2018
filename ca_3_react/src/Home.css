@@ -1,0 +1,55 @@
+.landing{
+background-image: url("./assets/img/landing.jpg"); 
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow:hidden;
+}
+.className{
+    display: inline-block;
+}
+.App-logo{
+    float: left;
+    margin: 10px;
+
+}
+h4{
+    display: inline;
+}
+#greentext{
+    font-size: 64px;
+    color: #2cef13 !important;
+    color: inherit; 
+ 
+}
+#orangetext{
+    font-size: 64px;
+    color: #ef7d13 !important;
+    color: inherit;  
+}
+.loginBut{
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+}
+#maintext{
+    font-size: 25px !important;
+    color: white;
+    margin-top: 20vh;
+    text-align: center;
+    text-shadow: 4px 4px 16px black;
+
+}
+
+#signupbutton{
+    text-align: center;
+}
+#container{
+    float: center;
+}
+
+
+
+
+
